@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "laboratorio09",
+            "cwd": "laboratorio09",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "laboratorio09 (profile mode)",
+            "cwd": "laboratorio09",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "laboratorio09 (release mode)",
+            "cwd": "laboratorio09",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
